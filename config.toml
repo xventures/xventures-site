@@ -1,0 +1,5 @@
+baseurl = "http://xventures.github.io/"
+languageCode = "zh-cn"
+title = "XVentures"
+publishdir = "xventures.github.io"
+theme = "simple-a"
