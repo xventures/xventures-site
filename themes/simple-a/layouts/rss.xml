@@ -3,7 +3,7 @@
       <title>{{ .Title }} on {{ .Site.Title }} </title>
     <link>{{ .Permalink }}</link>
     <language>en-us</language>
-    <author>Alexander Ivanov</author>
+    <author>XVentures authors</author>
     <updated>{{ .Date }}</updated>
     {{ range .Data.Pages }}
     <item>
