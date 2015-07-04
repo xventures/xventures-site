@@ -1,5 +1,5 @@
 body {
-  font-size: 20px;
+  font-size: 18px;
   font-family: "Gentium Basic", Georgia, "Source Han Sans CN", "Noto Sans CJK CN", "Hiragino Sans GB", "Microsoft Yahei", sans-serif;;
 }
 
@@ -70,14 +70,17 @@ footer {
 
 .content h1 {
   color: #3F3F3F;
-  font-size: 1.8em;
+  font-size: 1.5em;
   text-align: center;
   margin-bottom: 40px;
 }
 
 #logo {
   width: 64px;
-  margin: 16px auto;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  background: white;
+  margin: auto;
 }
 
 #logo a {
@@ -138,9 +141,10 @@ footer {
 }
 
 p {
-  line-height: 1.4;
-  text-indent: 1em;
-  margin: 0 0 0.6em;
+  line-height: 1.5;
+  text-align: justify;
+  text-indent: 2em;
+  margin: 0 0 0.5em;
 }
 
 .post .content {
