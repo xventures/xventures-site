@@ -133,7 +133,7 @@ footer p {
 
 .post {
   margin: auto;
-  padding-bottom: 20px;
+  padding-bottom: 18px;
   background: #fff;
   max-width: 700px;
 }
@@ -154,7 +154,7 @@ p {
 .post .content {
   text-align: left;
   margin-top: 1em;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .post .content li {
@@ -172,7 +172,7 @@ p {
 }
 
 .post-header h1 {
-  font-size: 1.8em;
+  font-size: 1.5em;
   color: #444;
   margin-bottom: 10px;
 }
