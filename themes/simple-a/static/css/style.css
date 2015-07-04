@@ -68,6 +68,10 @@ footer {
  text-align: center;
 }
 
+footer p {
+  text-align: center;
+}
+
 .content h1 {
   color: #3F3F3F;
   font-size: 1.5em;
